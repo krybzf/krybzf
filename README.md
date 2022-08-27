@@ -1,3 +1,5 @@
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=krybzf)](https://git.io/streak-stats)
+
 - 👋 Hi, I’m @krybzf
 - 👀 I’m interested in <../>
 - 🌱 I’m currently learning html/css
